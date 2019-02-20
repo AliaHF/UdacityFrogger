@@ -3,10 +3,10 @@
 ## Table of Contents
 
 - [Overview](#Overview)
-- [How to Play](#How to Play)
+- [How to Play](#HowToPlay)
 
 ## Overview
-A the arcade game  based on [Frogger] [https://en.wikipedia.org/wiki/Frogger]. In the project, object oriented javascript and html5 canvas has since been implemented 
+A the arcade game  based on [Frogger](https://en.wikipedia.org/wiki/Frogger). In the project, object oriented javascript and html5 canvas has since been implemented 
 
 ## How to Play
 
